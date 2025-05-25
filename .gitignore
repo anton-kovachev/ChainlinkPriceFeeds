@@ -13,3 +13,7 @@ states/
 # Optional
 .env
 .env.local
+
+
+#Solidity node_modules
+node_modules/
